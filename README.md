@@ -1,5 +1,8 @@
 ![alt text](https://github.com/sipalingbagus/music/blob/main/mockup%20aplikasi%20bagus.jpg?raw=true)
 https://www.canva.com/design/DAGkfyDow6U/rR_xvRDcdo80FggRC--M_Q/view?utm_content=DAGkfyDow6U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h65b96d2260
+
+Aplikasi Urmusic mirip Spotify ini dirancang untuk memberikan pengalaman eksplorasi musik yang terstruktur dan user-friendly. Setelah login, pengguna akan diarahkan ke halaman Dashboard untuk melihat gambaran umum aplikasi. Melalui sidebar, pengguna dapat mengakses berbagai fitur, seperti mengatur preferensi musik untuk mempersonalisasi rekomendasi, melihat daftar lagu favorit, serta melacak riwayat rekomendasi lagu yang telah diberikan. Halaman "Jelajahi Musik" memungkinkan pengguna mencari musik baru berdasarkan genre, mood, atau popularitas, sedangkan "What's New" menyajikan pembaruan terkini. Di halaman profil, pengguna dapat mengelola informasi pribadi, termasuk foto profil. Navigasi yang responsif dan desain modern dengan tema gelap memberikan pengalaman visual yang menarik, sementara data pengguna dikelola melalui backend Laravel yang terintegrasi dengan database. Dengan alur ini, aplikasi menghadirkan fitur menyerupai Spotify, lengkap dengan potensi pengembangan seperti pemutaran musik langsung atau integrasi API musik.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
